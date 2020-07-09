@@ -1,0 +1,7 @@
+{
+    "prettier.useEditorConfig": false,
+    "files.associations": {
+        "typeinfo": "c"
+    },
+    "editor.formatOnSave": true
+}
