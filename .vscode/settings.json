@@ -1,7 +1,10 @@
 {
     "prettier.useEditorConfig": false,
     "files.associations": {
-        "typeinfo": "c"
+        "typeinfo": "c",
+        "ostream": "cpp",
+        "random": "cpp",
+        "iostream": "cpp"
     },
     "editor.formatOnSave": true
 }
