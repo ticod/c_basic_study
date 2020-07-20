@@ -37,6 +37,7 @@ int main()
     fputs(p.id, fp);
     fputc('\n', fp);
 
+    // fprintf(fp, "#전화번호 %s\n", p.phoneNumber);
     fputs("#전화번호: ", fp);
     fputs(p.phoneNumber, fp);
     fputc('\n', fp);
