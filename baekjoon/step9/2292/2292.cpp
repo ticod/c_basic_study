@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// a; (b++) * b * 3 + 1 < a; 
 int bulzip(int i)
 {
     if (i != 1)
