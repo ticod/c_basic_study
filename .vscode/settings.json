@@ -4,7 +4,8 @@
         "typeinfo": "c",
         "ostream": "cpp",
         "random": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "25-1_2.C": "cpp"
     },
     "editor.formatOnSave": true
 }
